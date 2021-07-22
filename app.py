@@ -44,7 +44,7 @@ st.sidebar.success('**Van Tien NGUYEN**')
 
 description = st.text_input('Description: ')
 
-host = "http://localhost:8000"
+host = "https://actionlearning-backend.herokuapp.com"
 
 
 #model = st.selectbox('Select your model: ',('LDA', 'K-means'))
